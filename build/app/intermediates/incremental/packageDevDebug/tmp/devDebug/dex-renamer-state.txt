@@ -1,0 +1,4 @@
+#Thu Apr 21 01:05:35 ICT 2022
+base.0=/home/nguyen.minh.haib/Development/flutter_getx_template-gmc/build/app/intermediates/dex/devDebug/mergeDexDevDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

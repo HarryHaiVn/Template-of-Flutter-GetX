@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/hellohasan/flutter_getx_template/BuildConfig.java
+ com.hellohasan.flutter_getx_template.BuildConfig
